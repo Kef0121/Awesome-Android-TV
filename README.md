@@ -8,7 +8,7 @@ A curated list of tools, guides and resources to get the most of your Android TV
 
 Table of Contents (WIP)
 ---
-- [Setting up Downloader by AFTVnews](setting-up-downloader-by-AFTVnews)
+- [Setting up Downloader by AFTVnews](setting-up-downloader-by-AFTVnews) (BROKEN LINK)
 - [Youtube Clients/Mods](#youtube-clientsmods)
 - [Browsers](#browsers)
 
