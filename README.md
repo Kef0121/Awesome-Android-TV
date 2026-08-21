@@ -8,16 +8,17 @@ A curated list of tools, guides and resources to get the most of your Android TV
 
 Table of Contents (WIP)
 ---
-- [Setting up Downloader by AFTVnews](#setting-up-downloader-by-AFTVnews)
-- [Youtube Clients/Mods](#youtube-clientsmods)
+- [Setting up Downloader by AFTVnews](#setting-up-downloader-by-aftvnews)
+- [YouTube Clients/Mods](#youtube-clientsmods)
 - [Browsers](#browsers)
 - [Launchers](#launchers)
+- [Laboratory](#laboratory)
 
 
 > [!TIP]
 > Emoji Legend
 > 
-> ⭐ - Reccomended
+> ⭐ - Recommended
 > 
 > 🌐 - Indexes
 
@@ -26,7 +27,7 @@ Setting up Downloader by AFTVnews
 This app by AFTVNews makes downloading files seamless by using their [URL Shortner](https://go.aftvnews.com/) which minimizes direct download links (or any links, really) into a few numbers. There are multiple codes scattered on the web, which i either gathered or made for ya.
 You can simply download the app on the [Play Store](https://www.aftvnews.com/downloader/) and grant it the necessary permissions. Then, go to the search box, and type the code, which will promptly start the download if available.
 
-Youtube Clients/Mods
+YouTube Clients/Mods
 ---
 - ⭐ [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)  - Modded Youtube client with adblocker, sponsorblock, video speed control, in-app updates, and more.
   
@@ -34,7 +35,7 @@ Youtube Clients/Mods
 | --- | --- |
 | 4120572 | 1384897 |
 
-- [SmartTube](https://smarttubeapp.github.io/) - Alternative Youtube client with a brand new, highly customizable UI, adblocker and sponsorblock. Formely known as SmartTubeNext
+- [SmartTube](https://smarttubeapp.github.io/) - Alternative YouTube client with a brand new, highly customizable UI, ad blocker and sponsorblock. Formerly known as SmartTubeNext
 
 | Stable | Beta |
 | --- | --- |
@@ -53,3 +54,14 @@ Launchers
 > [!NOTE]
 > i did find more launchers, but i will firstly install, test and see if its safe first. I will, however, mention them here.
 > <br> Emotn UI, FLauncher, Primal TV Launcher.
+
+Laboratory
+---
+A little space reserved for untested, new, or possibly unsafe tools
+
+- Emotn Store - Claims to be a smooth, clean, ad free and fast way to download apps. Never heard of it, but could be game changing (Or maybe not, who knows). The company also offers a Browser, Launcher, and a freaking projector on Amazon. Uploading apps to the store seems to be pretty simple judging by the login screen
+> [!NOTE]
+> The company is a sub-brand of a chinese company, which *does* make it a tad more sketchy.
+
+> As a sub-brand of Dangbei...
+  
