@@ -11,6 +11,7 @@ Table of Contents (WIP)
 - [Setting up Downloader by AFTVnews](setting-up-downloader-by-AFTVnews) (BROKEN LINK)
 - [Youtube Clients/Mods](#youtube-clientsmods)
 - [Browsers](#browsers)
+- [Launchers](#launchers)
 
 
 > [!TIP]
@@ -35,9 +36,20 @@ Youtube Clients/Mods
 
 - [SmartTube](https://smarttubeapp.github.io/) - Alternative Youtube client with a brand new, highly customizable UI, adblocker and sponsorblock. Formely known as SmartTubeNext
 
-| ARM | ARM64 |
+| Stable | Beta |
 | --- | --- |
-| 4120572 | 1384897 |
+| 28544 | 79015 |
 
 Browsers
 ---
+
+Launchers
+---
+- ⭐ [Productivity Launcher](https://projectivylauncher.com/) - A highly customizable yet familiar launcher, with tons of settings like backups, direct launch, and more. Has some advanced features locked behind a one time premium purchase. Can be patched with [Morphe](https://morphe.software/)
+ 
+- ⭐ [AT4K Launcher](https://at4klauncher.com/) - A clean, minimal, and modern Apple TV inspired launcher. Has features such as watch next cards and live wallpapers. Some features are locked behind a paywall. Thankfully, it can be patched with [Morphe](https://morphe.software/)
+   - Note to self: test out the launcher later
+
+> [!NOTE]
+> i did find more launchers, but i will firstly install, test and see if its safe first. I will, however, mention them here.
+> <br> Emotn UI, FLauncher, Primal TV Launcher.
