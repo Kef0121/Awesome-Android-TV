@@ -12,7 +12,7 @@ Table of Contents (WIP)
 - [YouTube Clients/Mods](#youtube-clientsmods)
 - [Browsers](#browsers)
 - [Launchers](#launchers)
-- [Laboratory](#laboratory)
+- [Laboratory](#laboratory) - Untested/Uncategorized apps and tools
 
 
 > [!TIP]
@@ -21,10 +21,12 @@ Table of Contents (WIP)
 > ⭐ - Recommended
 > 
 > 🌐 - Indexes
+>
+> ⚠️ - Warning (Untested, sketchy, or recently involved with controversies. Will vary from case from case)
 
 Setting up Downloader by AFTVnews
 ---
-This app by AFTVNews makes downloading files seamless by using their [URL Shortner](https://go.aftvnews.com/) which minimizes direct download links (or any links, really) into a few numbers. There are multiple codes scattered on the web, which i either gathered or made for ya.
+This app by AFTVNews makes downloading files seamless by using their [URL Shortner](https://go.aftvnews.com/) which minimizes direct download links (or any link, really) into a few numbers. There are multiple codes scattered on the web, which i either gathered or made for ya.
 You can simply download the app on the [Play Store](https://www.aftvnews.com/downloader/) and grant it the necessary permissions. Then, go to the search box, and type the code, which will promptly start the download if available.
 
 YouTube Clients/Mods
@@ -43,25 +45,52 @@ YouTube Clients/Mods
 
 Browsers
 ---
+- ⭐ [Browser](browser-app.com) - Chromium based browser with built in ad blocker, Google and Cloudflare DNS, and a Secure Network function, which routes up to 100gb of data through the TOR network monthly. The pro subscription is $5 monthly and offers the ability to type your own DNS, as well as improved versions of existing functions. 
+
+| Premium mod by TryRoom on PlatinMods (Reupload)| Playstore |
+| --- | --- |
+| 5522105 | xxx |
+
+- ⭐ [Zeus Browser](https://zeus-browser.com/) - Chromium based browser with multiple features like a news feed, built-in ad blocker, video player, and even a games tab. Has more or less the same set of setting as Browser, minus some privacy options and customization. The pro subscription is $5 monthly and offers improved versions of existing functions. 
+
+| Premium mod by TryRoom on PlatinMods (Reupload)| Playstore |
+| --- | --- |
+| 4747514 | xxx |
+
+- ⭐ [Browkork TV](https://github.com/mlm-games/browkorf-tv) - Fork of TV Bro with a Material You look. Has a cleaner, more user friendly interface, with a built in ad and/or popup blocker, web browser engine switcher with WebView or GeckoView, and user agent string editor. It is completely free and open source.
+
+| Universal | 
+| --- |
+| 1847599 |
+
+- [TV Bro](https://github.com/truefedex/tv-bro) -  Simple browser with a built in ad and/or popup blocker, web browser engine switcher with WebView or GeckoView, and user agent string editor, plus and some debug/development related options. It is completely free and open source, but looks fairly outdated.
+
+| Playstore |
+| --- |
+| xxx |
 
 Launchers
 ---
-- ⭐ [Productivity Launcher](https://projectivylauncher.com/) - A highly customizable yet familiar launcher, with tons of settings like backups, direct launch, and more. Has some advanced features locked behind a one time premium purchase. Can be patched with [Morphe](https://morphe.software/)
+- ⭐ [Projectivy Launcher](https://projectivylauncher.com/) - A highly customizable yet familiar launcher, with tons of settings like backups, direct launch, and more. Has some advanced features locked behind a one time premium purchase. Can be patched with [Morphe](https://morphe.software/)
+
+| Playstore |
+| --- |
+| xxx |
  
 - ⭐ [AT4K Launcher](https://at4klauncher.com/) - A clean, minimal, and modern Apple TV inspired launcher. Has features such as watch next cards and live wallpapers. Some features are locked behind a paywall. Thankfully, it can be patched with [Morphe](https://morphe.software/)
-   - Note to self: test out the launcher later
 
-> [!NOTE]
-> i did find more launchers, but i will firstly install, test and see if its safe first. I will, however, mention them here.
-> <br> Emotn UI, FLauncher, Primal TV Launcher.
+| Playstore |
+| --- |
+| xxx |
+ 
+- [FLauncher](https://gitlab.com/flauncher/flauncher) - FOSS launcher built with Flutter. Pretty similar to Projectivy Launcher, but with less *Bloat*, or simply less customization options, making it a great choice for people who value simplicity over too many options.
+
+| Playstore |
+| --- |
+| xxx |
 
 Laboratory
 ---
-A little space reserved for untested, new, or possibly unsafe tools
 
-- Emotn Store - Claims to be a smooth, clean, ad free and fast way to download apps. Never heard of it, but could be game changing (Or maybe not, who knows). The company also offers a Browser, Launcher, and a freaking projector on Amazon. Uploading apps to the store seems to be pretty simple judging by the login screen
-> [!NOTE]
-> The company is a sub-brand of a chinese company, which *does* make it a tad more sketchy.
-
-> As a sub-brand of Dangbei...
+- ⚠️ Emotn - A Chinese Company(?) and sub-brand of dangpei. Offers Emotn UI, a launcher, and Emotn Store, a alternative store similar to both PLay Store and AFTVNews Downloader, mixing app codes, and a way to find new apps easily. Overall, promising but sketchy. You can check out their [About Us section](https://app.emotn.com/about-us/) for more info. Promising, but sketchy at the same time
   
