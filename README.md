@@ -57,19 +57,19 @@ Launchers
 
 | Playstore |
 | --- |
-| xxx |
+| 2710897 |
  
 - ⭐ [AT4K Launcher](https://at4klauncher.com/) - A clean, minimal, and modern Apple TV inspired launcher. Has features such as watch next cards and live wallpapers. Some features are locked behind a paywall. Thankfully, it can be patched with [Morphe](https://morphe.software/)
 
 | Playstore |
 | --- |
-| xxx |
+| 9751626 |
  
 - [FLauncher](https://gitlab.com/flauncher/flauncher) - FOSS launcher built with Flutter. Pretty similar to Projectivy Launcher, but with less *Bloat*, or simply less customization options, making it a great choice for people who value simplicity over too many options.
 
 | Playstore |
 | --- |
-| xxx |
+| 3679705 |
 
 YouTube Clients/Mods
 ---
@@ -87,17 +87,17 @@ YouTube Clients/Mods
 
 Browsers
 ---
-- ⭐ [Browser](browser-app.com) - Chromium based browser with built in ad blocker, Google and Cloudflare DNS, and a Secure Network function, which routes up to 100gb of data through the TOR network monthly. The pro subscription is $5 monthly and offers the ability to type your own DNS, as well as improved versions of existing functions. 
+- ⭐ [Browser](https://browser1.com/) - Chromium based browser with built in ad blocker, Google and Cloudflare DNS, and a Secure Network function, which routes up to 100gb of data through the TOR network monthly. The pro subscription is $5 monthly and offers the ability to type your own DNS, as well as improved versions of existing functions. 
 
 | Playstore |
 | --- |
-| xxx |
+| 5175729 |
 
 - ⭐ [Zeus Browser](https://zeus-browser.com/) - Chromium based browser with multiple features like a news feed, built-in ad blocker, video player, and even a games tab. Has more or less the same set of setting as Browser, minus some privacy options and customization. The pro subscription is $5 monthly and offers improved versions of existing functions. 
 
 | Playstore |
 | --- |
-| xxx |
+| 9817469 |
 
 - ⭐ [Browkork TV](https://github.com/mlm-games/browkorf-tv) - Fork of TV Bro with a Material You look. Has a cleaner, more user friendly interface, with a built in ad and/or popup blocker, web browser engine switcher with WebView or GeckoView, and user agent string editor. It is completely free and open source.
 
@@ -109,10 +109,10 @@ Browsers
 
 | Playstore |
 | --- |
-| xxx |
+| 9817469 |
 
 Laboratory
 ---
 
-- ⚠️ Emotn - A Chinese Company(?) and sub-brand of dangpei. Offers Emotn UI, a launcher, and Emotn Store, a alternative store similar to both PLay Store and AFTVNews Downloader, mixing app codes, and a way to find new apps easily. Overall, promising but sketchy. You can check out their [About Us section](https://app.emotn.com/about-us/) for more info. Promising, but sketchy at the same time
+- ⚠️ Emotn - A Chinese Company(?) and sub-brand of dangpei. Offers Emotn UI, a launcher, and Emotn Store, a alternative store similar to both PLay Store and AFTVNews Downloader, mixing app codes, and a way to find new apps easily. Overall, promising but sketchy. You can check out their [About Us section](https://app.emotn.com/about-us/) for more info.
   
