@@ -3,7 +3,7 @@
 A curated list of tools, guides and resources to get the most of your Android TV device. 
 
 > [!NOTE]
-> This is a project made for fun, so don't expect too much. If you wanna help expand this, you're welcome to contact me.
+> This is a project made for fun, so don't expect too much. If you wanna help expand this, you're welcome to.
 > Unless specified, you can download the apps by pasting the code in the Downloader by AFTVnews app
 
 Table of Contents (WIP)
